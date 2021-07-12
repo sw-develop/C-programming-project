@@ -1,4 +1,4 @@
-# TCP/IP Socket + C programming project 
+# TCP/IP Socket + Multi Thread project 
 ## 프로젝트 개요
 프로젝트명: Fo(u)r Escape
 
