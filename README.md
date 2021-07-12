@@ -6,8 +6,11 @@
 ## UI 시나리오 및 설계
 * UI 시나리오
 
-![캡처2](https://user-images.githubusercontent.com/69254943/92068604-51dc3800-ede2-11ea-8b87-ffb5d26061d5.PNG)
+![UI시나리오](https://user-images.githubusercontent.com/69254943/125215175-92a3b800-e2f5-11eb-98a4-0ba2993c53d9.png)
 
-* 설계
+* 설계   
+1) Static Diagram
+![StaticDiagram](https://user-images.githubusercontent.com/69254943/125215277-004fe400-e2f6-11eb-8314-f1c4c083ea2b.png)
 
-![캡처](https://user-images.githubusercontent.com/69254943/92067692-e1341c00-eddf-11ea-935e-228f45c2f27a.PNG)
+2) Dynamic Diagram
+![DynamicDiagram](https://user-images.githubusercontent.com/69254943/92067692-e1341c00-eddf-11ea-935e-228f45c2f27a.PNG)
