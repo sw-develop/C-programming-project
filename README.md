@@ -10,7 +10,7 @@
 
 * 설계   
 1) Static Diagram
-![StaticDiagram](https://user-images.githubusercontent.com/69254943/125215277-004fe400-e2f6-11eb-8314-f1c4c083ea2b.png)
-
+![StaticDiagram](https://user-images.githubusercontent.com/69254943/125215277-004fe400-e2f6-11eb-8314-f1c4c083ea2b.png)   
+ 
 2) Dynamic Diagram
-![DynamicDiagram](https://user-images.githubusercontent.com/69254943/92067692-e1341c00-eddf-11ea-935e-228f45c2f27a.PNG)
+![DynamicDiagram](https://user-images.githubusercontent.com/69254943/125218406-e4504080-e2fd-11eb-90ac-f5cc95db2031.png)
